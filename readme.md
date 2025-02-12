@@ -1,11 +1,11 @@
 ## Hello, there ✌
 
-Meu nome é Váltson, sou desenvolvedor web back-end apaixonado por tecnologia e resolução de problemas. Atualmente, moro em Aracaju, Sergipe, e tenho como objetivo criar sistemas eficientes e escaláveis que impactem positivamente a vida das pessoas. Sempre busco aprender e aprimorar minhas habilidades para construir soluções inovadoras para o mundo real.
+Meu nome é Váltson, sou desenvolvedor web back-end apaixonado por tecnologia e resolução de problemas. Atualmente, moro em São Paulo, São Paulo, e tenho como objetivo criar sistemas eficientes e escaláveis que impactem positivamente a vida das pessoas. Sempre busco aprender e aprimorar minhas habilidades para construir soluções inovadoras para o mundo real.
 
 <br>
 Você também pode me encontrar aqui 👇
 <div>
-  <a href="" target="_blank">
+  <a href="www.linkedin.com/in/valtsonaraujo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 </div>
